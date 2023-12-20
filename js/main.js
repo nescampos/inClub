@@ -2,7 +2,7 @@ var urlRPC = "https://inevm-rpc.caldera.dev/";
 var currency = "INJ";
 var networkName = "Injective inEVM"
 const chainId = 1738;
-const milisecondsToWait = 12000;
+const milisecondsToWait = 20000;
 
 var web3 = new Web3(new Web3.providers.HttpProvider(urlRPC));
 const MMSDK = new MetaMaskSDK.MetaMaskSDK();
