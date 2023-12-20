@@ -7,7 +7,7 @@ The focus, from our experience working with investment managers, is to make it e
 
 ## URL and information
 ----
-- Project URL: https://nescampos.github.io/inclub/
+- Project URL: https://nescampos.github.io/inClub/
 - Blockchain: Injective EVM side chain (Testnet, Caldera)
 - Smart Contract ID: [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://inevm.calderaexplorer.xyz/address/0x4dA05ddA2F0586327E956548fd3E88a508ba2168)
 - Wallet: For now, Metamask.
